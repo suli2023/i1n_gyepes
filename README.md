@@ -2,4 +2,4 @@
 
 Kör alakú telek felének gyepesítése.
 
-Feladat 0303, JavaScript nyelven
+Feladat 0303, TypeScript nyelven
